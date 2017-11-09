@@ -6,7 +6,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#takes user to -> user/matcha.php only if logged in">MATCHA</a>
+            <a class="navbar-brand" href="#takes user to -> user/matcha.php only if logged in"><span class="glyphicon glyphicon-heart-empty">MATCHA</a>
         </div>
         <div class="collapse navbar-collapse ml-auto" id="logger">
             <ul class="nav navbar-nav navbar-right">

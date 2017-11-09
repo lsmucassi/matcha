@@ -30,7 +30,6 @@
     <!--landing login register header -->
     <?php include('headers/landing.php') ?>
     <div class="carousel slide carousel-fade" data-ride="carousel">
-
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
