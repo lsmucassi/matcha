@@ -21,6 +21,7 @@
 <body>
     <!--landing login register header -->
     <?php include('headers/landing.php') ?>
+    <?php include('logreg/login.php') ?>
     <?php include('headers/footer.php') ?>
 </body>
 </html>
