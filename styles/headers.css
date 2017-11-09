@@ -4,10 +4,8 @@
 
 footer {
     bottom: 0;
-    position: fixed;
-    left: 0;
+    position: absolute;
     padding: 1rem;
-    right: 0;
 }
 footer.container-fluid.text-center.foot {
     background: #383838;
@@ -35,5 +33,5 @@ a.link:hover {
 }
 
 .footimg{
-    width: 5rem;
+    width: 30px;
 }
