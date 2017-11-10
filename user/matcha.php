@@ -25,15 +25,13 @@
         <!-- suggestion to user -->
         <div class="sugg-colum">
             <h3>Here are possible matches for you</h3>
-            <p>In this example, the navigation bar is hidden on small screens and replaced by a button in the top right corner (try to re-size this window).
-            <p>Only when the button is clicked, the navigation bar will be displayed.</p>
         </div>
         <!-- just a vertical line -->
         <div class=""></div>
         <!-- search and results -->
         <div class="sidebar">
             <!-- search and filter -->
-            <div class="container">
+            <div class="">
                 <div class="">
                     <div class="col-xs-8 col-xs-offset-2">
                         <div class="input-group">
@@ -42,10 +40,10 @@
                                     <span id="search_concept">Filter by</span> <span class="caret"></span>
                                 </button>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#contains">Contains</a></li>
-                                    <li><a href="#its_equal">It's equal</a></li>
-                                    <li><a href="#greather_than">Greather than ></a></li>
-                                    <li><a href="#less_than">Less than < </a></li>
+                                    <li><a href="#contains">Gender</a></li>
+                                    <li><a href="#its_equal">Age</a></li>
+                                    <li><a href="#greather_than">close location</a></li>
+                                    <li><a href="#less_than"></a></li>
                                     <li class="divider"></li>
                                     <li><a href="#all">Anything</a></li>
                                 </ul>
