@@ -1,10 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: lmucassi
- * Date: 2017/11/08
- * Time: 12:23 PM
- */?>
+    
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
