@@ -37,6 +37,14 @@ body {
     color: #444;
 }
 
+.wrapper2 {
+    display: grid;
+    grid-template-columns: 350px 300px 0px;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+}
+
 .main-page {
     margin: 10px;
 }

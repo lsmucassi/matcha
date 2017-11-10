@@ -37,8 +37,6 @@
                 <div><?php include('suggested.php') ?></div>
             </div>
         </div>
-        <!-- just a vertical line -->
-        <div class=""></div>
         <!-- search and results -->
         <div class="sidebar">
             <!-- search and filter -->

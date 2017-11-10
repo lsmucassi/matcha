@@ -5,7 +5,6 @@
  * Date: 2017/11/10
  * Time: 5:19 AM
  */?>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <input type="checkbox" id="pure-toggle" hidden/>
     <label id="card-user" class="pure-toggle" for="pure-toggle">
@@ -21,7 +20,7 @@
         </div>
 
         <div class="social">
-            <i class="glyphicon glyphicon-heart-empty" alt="codepen" title="codepen"></i>
-            <i class="glyphicon glyphicon-user" alt="facebook" title="facebook"></i>
+            <i class="glyphicon glyphicon-heart-empty" alt="codepen" title="like"></i>
+            <i class="glyphicon glyphicon-user" alt="facebook" title="profile"></i>
         </div>
 
