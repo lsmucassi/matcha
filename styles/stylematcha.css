@@ -1,0 +1,30 @@
+/*suggestion */
+.sugg-colum {
+    position: fixed;
+    float: left;
+    width: 60%;
+    margin: 7px;
+
+}
+
+/* search and filter aside */
+.sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 7px;
+    margin-right: 80px;
+}
+
+/* just a vertical line */
+.vl {
+    border-left: 6px solid green;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.main-page {
+    margin: 10px;
+}
