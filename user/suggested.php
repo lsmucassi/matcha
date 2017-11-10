@@ -10,6 +10,7 @@
     <input type="checkbox" id="pure-toggle" hidden/>
     <label id="card-user" class="pure-toggle" for="pure-toggle">
         <div class="header">
+            <h3>User name</h3>
         </div>
         <div class="avatar">
             <img src="http://wpidiots.com/html/writic/red-writic-template/css/img/demo-images/avatar1.jpg" alt="...">

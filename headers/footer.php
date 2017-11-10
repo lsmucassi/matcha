@@ -5,6 +5,7 @@
  * Date: 2017/11/08
  * Time: 1:35 PM
  */?>
+<div>
 <footer class="container-fluid text-center foot">
     <div class="copyrights">
         <p class="white-txt"><span class="glyphicon glyphicon-heart-empty">MATCHA_ © 2017 by weThinkCode
@@ -21,3 +22,4 @@
         </p>
     </div>
 </footer>
+</div>
