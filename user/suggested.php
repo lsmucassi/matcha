@@ -27,10 +27,7 @@
         </div>
 
         <div class="social">
-            <i class="fa fa-codepen" alt="codepen" title="codepen"></i>
-            <i class="fa fa-facebook" alt="facebook" title="facebook"></i>
-            <i class="fa fa-google" alt="google" title="google"></i>
-            <i class="fa fa-twitter" alt="twitter" title="twitter"></i>
-            <i class="fa fa-youtube" alt="youtube" title="youtube"></i>
+            <i class="glyphicon glyphicon-heart-empty" alt="codepen" title="codepen"></i>
+            <i class="glyphicon glyphicon-user" alt="facebook" title="facebook"></i>
         </div>
 
