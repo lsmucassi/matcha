@@ -20,13 +20,6 @@
             <p>some information about the user</p>
         </div>
 
-        <div class="skills">
-            <h3>Skills</h3>
-            <i class="fa fa-html5 fa-2x"></i>
-            <i class="fa fa-css3 fa-2x"></i>
-            <i class="fa fa-github fa-2x"></i>
-        </div>
-
         <div class="social">
             <i class="glyphicon glyphicon-heart-empty" alt="codepen" title="codepen"></i>
             <i class="glyphicon glyphicon-user" alt="facebook" title="facebook"></i>
