@@ -40,31 +40,31 @@
                     <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
                         <!-- register FullName -->
                         <div class="form-group">
-                            <input type="text" class="form-control" id="" placeholder="Fullname" name="" required>
+                            <input type="text" class="form-control" id="" placeholder="Fullname" name="reg_name" required>
                         </div>
                         <!-- register username -->
                         <div class="form-group">
                             <label class="sr-only">Username</label>
-                            <input type="text" class="form-control" id="" placeholder="Username" name="" required>
+                            <input type="text" class="form-control" id="" placeholder="Username" name="reg_userlogin" required>
                         </div>
                         <!-- email address -->
                         <div class="form-group">
                             <label class="sr-only">Email</label>
-                            <input type="email" class="form-control" id="" placeholder="Email Address" name="" required>
+                            <input type="email" class="form-control" id="" placeholder="Email Address" name="reg_email" required>
                         </div>
                         <!-- password -->
                         <div class="form-group">
                             <label class="sr-only">Password</label>
-                            <input type="password" class="form-control" id="" placeholder="Password" name="" required>
+                            <input type="password" class="form-control" id="" placeholder="Password" name="reg_password_1" required>
                         </div>
                         <!-- confirm password -->
                         <div class="form-group">
                             <label class="sr-only">Password</label>
-                            <input type="password" class="form-control" id="" placeholder="Confirm Password" name="" required>
+                            <input type="password" class="form-control" id="" placeholder="Confirm Password" name="reg_password_2" required>
                         </div>
                         <!-- sign up button -->
                         <div class="form-group">
-                            <button type="submit" class="btn btn-primary btn-block" name="">Sign Up</button>
+                            <button type="submit" class="btn btn-primary btn-block" name="reg_user">Sign Up</button>
                         </div>
                     </form>
                 </div>
@@ -100,11 +100,11 @@
                     <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
                         <div class="form-group">
                             <label class="sr-only" for="exampleInputEmail2">Email address or Username</label>
-                            <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email address" name="" required>
+                            <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email address" name="log_userlogin" required>
                         </div>
                         <div class="form-group">
                             <label class="sr-only" for="exampleInputPassword2">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" name="" required>
+                            <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" name="log_password" required>
                             <div class="help-block text-right"><a href="">Forget the password ?</a></div>
                         </div>
                         <div class="form-group">
